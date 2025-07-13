@@ -137,7 +137,7 @@ const Home = () => {
             }}
           >
             <img
-              src="/public/profil-img.jpg"
+              src="/profil-img.jpg"
               alt="MAMIZARA Henri Canisius"
               className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-500"
               onError={(e) => {

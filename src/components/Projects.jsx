@@ -77,32 +77,32 @@ const Projects = () => {
     {
       title: 'Plateforme de réservation de concerts',
       description: 'Application complète pour réserver des billets de concert en ligne.',
-      image: '/public/projet-1.jpg',
+      image: '/projet-1.jpg',
     },
     {
       title: 'Site web de l’Assemblée nationale',
       description: 'Refonte moderne et responsive du site institutionnel.',
-      image: '/public/projet-2.png',
+      image: '/projet-2.png',
     },
     {
       title: 'Dashboard RH',
       description: 'Outil de gestion des ressources humaines avec statistiques et rapports.',
-      image: '/public/projet-3.png',
+      image: '/projet-3.png',
     },
     {
       title: 'Application de gestion d’événements',
       description: 'Organisez et suivez vos événements en temps réel.',
-      image: '/public/projet-4.jpg',
+      image: '/projet-4.jpg',
     },
     {
       title: 'Portfolio développeur',
       description: 'Site vitrine pour présenter compétences, services et projets.',
-      image: '/public/projet-5.png',
+      image: '/projet-5.png',
     },
     {
       title: 'Système de réservation de train',
       description: 'Application pour gérer les réservations et billets de train.',
-      image: '/public/projet-6.png',
+      image: '/projet-6.png',
     },
   ];
 
